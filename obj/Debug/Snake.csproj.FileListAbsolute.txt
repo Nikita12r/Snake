@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Snake\bin\Debug\Accord.dll.config
+C:\Users\HP\source\repos\Snake\bin\Debug\Snake.exe.config
+C:\Users\HP\source\repos\Snake\bin\Debug\Snake.exe
+C:\Users\HP\source\repos\Snake\bin\Debug\Snake.pdb
+C:\Users\HP\source\repos\Snake\bin\Debug\Accord.dll
+C:\Users\HP\source\repos\Snake\bin\Debug\Accord.Math.Core.dll
+C:\Users\HP\source\repos\Snake\bin\Debug\Accord.Math.dll
+C:\Users\HP\source\repos\Snake\bin\Debug\Accord.xml
+C:\Users\HP\source\repos\Snake\bin\Debug\Accord.Math.xml
+C:\Users\HP\source\repos\Snake\bin\Debug\Accord.Math.Core.xml
+C:\Users\HP\source\repos\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\HP\source\repos\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Snake\obj\Debug\Snake.exe
+C:\Users\HP\source\repos\Snake\obj\Debug\Snake.pdb
+C:\Users\HP\source\repos\Snake\obj\Debug\Snake.Snake.resources
